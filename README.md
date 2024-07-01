@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I am Segun Osiki, currently working as a Java instructor | Developer at Decagon.
+- 🔭 I am Segun Osiki, currently working as a Java Lead instructor | Developer at Decagon.
 - I am a full stack software engineer and a technical writer.
 - 💬 Ask me about tech stuffs.
 - 🔭 Intrest: playing chess, playing guitar.
